@@ -1,0 +1,31 @@
+Future Release Updates/Fixes:
+
+- <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+- wide images front
+- make sure that all links are works for every page
+- update template page at the end
+	- once index.html is fully complete
+	- update meta tags on all html webpages.
+-iframe, change setting, set to race schedule
+-race results.html
+- about.html
+	- include photo of club officers
+-photo's.html
+	- javascript, to remain on same page on click
+-roster.html
+	-see cal poly xc team, copy format
+	-see panels group, bootstrap, see book mark
+- upcoming events, homepage
+- contact javascript page
+	- replace, 'contact us' on in footer.
+
+
+Bugs/other:
+-responsive logo bottom
+-search functionality
+-"issues, nonresponsive layout" a:link layout fixes
+
+
+end:
+-send to others, make them respond for missing content/bugs/whatever
+

@@ -1,0 +1,14 @@
+@import "../css/index.css";
+
+/*overwriting table formats*/
+@media (min-width: 1000px) {
+	.container {
+	    width: 1000px;
+	  
+	}
+}
+
+.container {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}

@@ -1,0 +1,42 @@
+@import "../css/index.css";
+
+.welcome_message {
+    padding-bottom: 4%;
+}
+ .welcome_message h1 {
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: left;
+    padding-top:4%;
+    padding-bottom: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+.welcome_message p {
+    font-weight: 300;
+    color: #212121;
+    font-size: 26px;
+    text-align: left;
+    padding-top:2%;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+hr.thin {
+    height: 2px;
+    background-color: #E0E0E0;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+#final_text_element_extra_padding p{
+    padding-bottom:2%;
+}

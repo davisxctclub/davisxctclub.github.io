@@ -1,0 +1,2 @@
+1) Colour correctness
+2) Use brush size of 400 to erase vertically down the image. 0% hardness, hold down shift. Use half the size to erase.
