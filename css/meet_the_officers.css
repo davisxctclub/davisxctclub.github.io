@@ -1,7 +1,30 @@
 @import "../css/index.css";
 
 .table-bordered {
-    margin-top: 4%;
     margin-bottom: 4%;
+}
+
+/* title */
+.page-header {
+    border-bottom: 1px solid #E2E2E2;
+    margin-top:2.5%;
+   
+}
+
+.row {
+	 padding-bottom: 0px;
+}
+
+/* margin fix */
+.body > div.officer_information {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+@media (min-width: 1200px) {
+	.container {
+	    /* width: 1170px; */
+	    width: 1344px;
+	}
 }
 

@@ -18,12 +18,13 @@ Future Release Updates/Fixes:
 - upcoming events, homepage
 - contact javascript page
 	- replace, 'contact us' on in footer.
-
+-round footer buttons
 
 Bugs/other:
 -responsive logo bottom
 -search functionality
 -"issues, nonresponsive layout" a:link layout fixes
+-get rid of hairline
 
 
 end:

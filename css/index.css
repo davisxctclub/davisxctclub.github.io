@@ -200,6 +200,10 @@ p {
 	padding-bottom: 2%;
 }
 
+.row .col-md-8 p{
+	padding-bottom: 2%;
+}
+
 .main_bold a{
 	font-family: 'Open Sans', sans-serif;
 	font-style: normal;

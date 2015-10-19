@@ -1,0 +1,31 @@
+@import "../css/index.css";
+
+/* overwrites */
+.page-header {
+	border-bottom: 1px solid #E2E2E2;
+}
+
+hr {
+    /* border-top: 1px solid #ccc; */
+    border-top: none !important;
+}
+
+.container {
+	padding-bottom: 5%;
+}
+
+.container img {
+    -webkit-transition: all .4s ease; /* Safari and Chrome */
+    -moz-transition: all .4s ease; /* Firefox */
+    -ms-transition: all .4s ease; /* IE 9 */
+    -o-transition: all .4s ease; /* Opera */
+    transition: all .4s ease;
+}
+
+.container img:hover {
+    -webkit-transform:scale(1.07); /* Safari and Chrome */
+    -moz-transform:scale(1.07); /* Firefox */
+    -ms-transform:scale(1.07); /* IE 9 */
+    -o-transform:scale(1.07); /* Opera */
+     transform:scale(1.07);
+}

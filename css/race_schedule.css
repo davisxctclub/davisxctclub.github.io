@@ -9,6 +9,24 @@
 }
 
 .container {
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-bottom: 2.5%;
+}
+
+/* title */
+.page-header {
+    border-bottom: 1px solid #E2E2E2;
+    margin-top:2.5%;
+   
+}
+
+.row {
+	 padding-bottom: 0px;
+}
+
+@media (min-width: 1000px) {
+	.container {
+	    /* width: 1000px; */
+	    width: 1344px;
+	}
+
 }

@@ -4,7 +4,7 @@
     padding-bottom: 4%;
 }
  .welcome_message h1 {
-    color: #212121;
+    color: #5a5a5a;
     font-size: 36px;
     font-weight: 700;
     text-align: left;
@@ -19,7 +19,7 @@
 
 .welcome_message p {
     font-weight: 300;
-    color: #212121;
+    color: #5a5a5a;
     font-size: 26px;
     text-align: left;
     padding-top:2%;
