@@ -6,27 +6,18 @@ Future Release Updates/Fixes:
 - update template page at the end
 	- once index.html is fully complete
 	- update meta tags on all html webpages.
--iframe, change setting, set to race schedule
+	- Careful not to overwrite other nessessary meta tags. Compare side by side with template.html
 -race results.html
 - about.html
 	- include photo of club officers
--photo's.html
-	- javascript, to remain on same page on click
 -roster.html
 	-see cal poly xc team, copy format
 	-see panels group, bootstrap, see book mark
-- upcoming events, homepage
-- contact javascript page
-	- replace, 'contact us' on in footer.
--round footer buttons
+-need for website cordinator officer
 
 Bugs/other:
 -responsive logo bottom
--search functionality
 -"issues, nonresponsive layout" a:link layout fixes
--get rid of hairline
+-make tables responsive
 
-
-end:
--send to others, make them respond for missing content/bugs/whatever
 

@@ -300,13 +300,13 @@ p {
 
 /* COLUMN 1 */
 
-#copyright p{
+#col-md-4\20 copyright\20 border_background > p{
 	color: #c7972c;
 	font-size: 14px;
 	font-weight: 300;
-	text-align: left;
-    padding-top: 16%;
-	
+	bottom: 0;
+	left: 0;	
+	position: absolute;
 }
 
 .footer_buttons {
@@ -317,6 +317,10 @@ p {
 	padding-top: 24px;
 	display: table-cell;
 	width: 200px;
+}
+
+#col-1 {
+	padding-bottom: 5%;
 }
 
 
@@ -347,6 +351,10 @@ input:hover,input:focus, input:active {
 	-moz-transition:.5s;
 	-webkit-transition:.5s;
 	transition:.5s;
+}
+
+#custom_button > input[type="image"] {
+	max-width: 132px;
 }
 
 .donation_button p{
@@ -403,4 +411,51 @@ input:hover,input:focus, input:active {
 	transition:.5s;
 }
 
-	
+
+/*SEARCH BOX ATTRIBUTES*/
+
+/*javascript link*/
+#display_active{
+	display:none;
+}
+
+/*on hover image*/
+.searchWrapper img:hover{
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition:.5s;
+	-webkit-filter: brightness(120%);
+	cursor: pointer;
+}
+
+/*position image*/
+#bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > div > img {
+    padding-right: 59px;
+    padding-left: 50px;
+    padding-top: 29px;
+}
+
+/*position searchbox*/
+#___gcse_0 > div {
+    z-index: 10;
+    position: absolute;
+    right:0;
+}
+
+/*SEARCH BOX STYLE*/
+/*outer most div*/
+.gsc-control-cse {
+    font-family: Arial, sans-serif;
+    border-radius: 0px 0px 20px 20px;
+    border-color: #FFFFFF !important;
+    background-color: #FFFFFF !important;
+    
+}
+
+/*size control*/
+#___gcse_0 > div {
+	width: 25% !important;
+	float:right;
+}
