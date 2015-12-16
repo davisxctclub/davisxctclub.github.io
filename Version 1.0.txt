@@ -1,4 +1,5 @@
 Future Release Updates/Fixes:
+••••••••••••••••••••••••••••••
 
 - <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 - wide images front
@@ -14,10 +15,14 @@ Future Release Updates/Fixes:
 	-see cal poly xc team, copy format
 	-see panels group, bootstrap, see book mark
 -need for website cordinator officer
+- add new photos
+-redo carasal with real html text
+-design page link
+-fix searh functionality -> see personal website
 
 Bugs/other:
 -responsive logo bottom
 -"issues, nonresponsive layout" a:link layout fixes
 -make tables responsive
-
-
+remove "		<link href="../css/bootstrap-responsive.css" rel="stylesheet" type="text/css">"
+-console - error loading a few files

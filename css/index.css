@@ -415,7 +415,7 @@ input:hover,input:focus, input:active {
 /*SEARCH BOX ATTRIBUTES*/
 
 /*javascript link*/
-#display_active{
+#___gcse_0 > div{
 	display:none;
 }
 
@@ -435,6 +435,7 @@ input:hover,input:focus, input:active {
     padding-right: 59px;
     padding-left: 50px;
     padding-top: 29px;
+    padding-bottom: 31px;
 }
 
 /*position searchbox*/
@@ -458,4 +459,16 @@ input:hover,input:focus, input:active {
 #___gcse_0 > div {
 	width: 25% !important;
 	float:right;
+}
+
+/*buttom color*/
+input.gsc-search-button {
+    border-color: #FFFFFF;
+    background-color: #C7972C !important;
+}
+
+
+/*personal customsearch watermark: clicking, removes background*/
+.cse input.gsc-input:focus, input.gsc-input:focus {
+	background-image:none !important;
 }
