@@ -1,0 +1,45 @@
+@import "../css/index.css";
+
+/* overwrites */
+.page-header {
+	border-bottom: 1px solid #E2E2E2;
+}
+
+hr {
+    /* border-top: 1px solid #ccc; */
+    border-top: none !important;
+}
+body > div.container > div.container img {
+    width: 65%;
+    display: block;
+    margin: 0 auto;
+}
+
+body > div.container > div.container img:hover{
+    -webkit-filter: brightness(103%);
+        
+    /* shadow */
+    -webkit-box-shadow: 3px 3px 3px #7C7C7C;
+    box-shadow: 3px 3px 3px #7C7C7C;
+}
+
+/* overwrites */
+.row .col-md-4 {
+    border-right: none !important;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+/* text */
+.row h3 {
+    font-weight: 400;
+    font-size: 18px;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.warning p {
+    margin-left: 20%;
+    padding-bottom: 4%;
+    font-size: 14px;
+}

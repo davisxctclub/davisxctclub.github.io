@@ -14,11 +14,17 @@ Future Release Updates/Fixes:
 -roster.html
 	-see cal poly xc team, copy format
 	-see panels group, bootstrap, see book mark
--need for website cordinator officer
-- add new photos
+-need for website coordinator officer
+	- someone who writes articles
 -redo carasal with real html text
+	- 1) NIRCA Championship victory, new image -> link to article
+	- 2) Welcome to davis xc -> link to about
+	- 3) Training at Mammoth -> remove read more
+	- 4) Fix formal style on headers/paragraph/positioning
+	- 5) Make white background
 -design page link
 -fix searh functionality -> see personal website
+-update footer for all the html
 
 Bugs/other:
 -responsive logo bottom

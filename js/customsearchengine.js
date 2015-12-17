@@ -24,27 +24,6 @@ $(document).on('click', function (e) {
 });
 
 
-$(document).ready(function(){
-    var flag = false;
-
-    $('html').click(function (e) {
-        if (e.target.id == '#bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > div' && flag === false) {
-            $('#___gcse_0 > div').show();
-            flag = true;
-        }
-
-        else if (flag === true && e.target.id == '#bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > div') {
-            $('#___gcse_0 > div').hide();
-            flag = false;
-        }
-
-        else {
-            $('#___gcse_0 > div').hide();
-            flag = false;
-        }
-    });
-});
-
 
 
 

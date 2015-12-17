@@ -40,3 +40,22 @@ hr.thin {
 #final_text_element_extra_padding p{
     padding-bottom:2%;
 }
+
+#bottom_image > img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;
+    
+    -moz-box-shadow: 0 0 7px #888;
+    -webkit-box-shadow: 0 0 7px#888;
+    box-shadow: 0 0 7px #888;
+    
+    /* border-radius */
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    
+    margin-bottom: 4%;
+
+}
