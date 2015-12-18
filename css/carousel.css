@@ -24,7 +24,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 700px;
-  background-image: url("../images/background/white_wall_hash_@2X.png");
+  background-color: white;
   background-repeat: repeat;
 }
 .carousel-inner > .item > img {
@@ -36,14 +36,55 @@ body {
 /* Remove side background img */
 .carousel-control.left, .carousel-control.right {
     background-image: none;
-    background-color: none;
-    
+    background-color: white;
+}
+
+.carousel .item {
+    height: 700px;
+    background-color: white;
+    /* background-image: url("../images/background/white_wall_hash_@2X.png"); */
+    background-repeat: repeat;
 }
 
 .carousel-control .glyphicon,
 .carousel-control .icon-prev,
 .carousel-control .icon-next {
   background-color: none;
+}
+
+/* caption text */
+@media screen and (min-width: 768px) {
+.carousel-caption {
+    padding-bottom: 440px;
+    }
+}
+
+/* heading */
+#myCarousel h1 {
+  font-size: 45px;
+}
+
+/* paragraph */
+#myCarousel p {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/* button to read more */
+#myCarousel .btn {
+  background-color: #162A53;
+  border: none !important;
+  color: white;
+  font-weight: 400;
+}
+
+#myCarousel .btn:hover {
+  -webkit-filter: brightness(140%);
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
 }
 
 

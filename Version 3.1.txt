@@ -1,30 +1,27 @@
 Future Release Updates/Fixes:
 ••••••••••••••••••••••••••••••
 
-- <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-- wide images front
+-fix searh functionality -> see personal website
 - make sure that all links are works for every page
 - update template page at the end
 	- once index.html is fully complete
 	- update meta tags on all html webpages.
 	- Careful not to overwrite other nessessary meta tags. Compare side by side with template.html
 -race results.html
-- about.html
-	- include photo of club officers
 -roster.html
 	-see cal poly xc team, copy format
 	-see panels group, bootstrap, see book mark
 -need for website coordinator officer
 	- someone who writes articles
--redo carasal with real html text
-	- 1) NIRCA Championship victory, new image -> link to article
-	- 2) Welcome to davis xc -> link to about
-	- 3) Training at Mammoth -> remove read more
-	- 4) Fix formal style on headers/paragraph/positioning
-	- 5) Make white background
+ NIRCA Championship victory, new image -> link to article
 -design page link
--fix searh functionality -> see personal website
 -update footer for all the html
+-fix link index.html
+-add google analytics on everypage
+-image compressor, all photos, but maintain name and folder address
+-latest news
+-upcoming races
+
 
 Bugs/other:
 -responsive logo bottom
