@@ -7,7 +7,6 @@ Future Release Updates/Fixes:
 	- once index.html is fully complete
 	- update meta tags on all html webpages.
 	- Careful not to overwrite other nessessary meta tags. Compare side by side with template.html
--race results.html
 -roster.html
 	-see cal poly xc team, copy format
 	-see panels group, bootstrap, see book mark
@@ -21,6 +20,8 @@ Future Release Updates/Fixes:
 -image compressor, all photos, but maintain name and folder address
 -latest news
 -upcoming races
+-fix search buttom, to not reveal watermark on go
+-sign-in/sign-ups
 
 
 Bugs/other:
@@ -29,3 +30,4 @@ Bugs/other:
 -make tables responsive
 remove "		<link href="../css/bootstrap-responsive.css" rel="stylesheet" type="text/css">"
 -console - error loading a few files
+

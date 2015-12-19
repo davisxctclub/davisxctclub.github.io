@@ -1,6 +1,10 @@
 @import "../css/index.css";
 
-/*temp*/
-h1 {
-	padding-bottom: 30%;
+#example {
+	margin-left: 15.5%;
+}
+
+
+table {
+    width: 62% !important;
 }
