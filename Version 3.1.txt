@@ -7,25 +7,20 @@ Future Release Updates/Fixes:
 	- once index.html is fully complete
 	- update meta tags on all html webpages.
 	- Careful not to overwrite other nessessary meta tags. Compare side by side with template.html
--roster.html
-	-see cal poly xc team, copy format
-	-see panels group, bootstrap, see book mark
--need for website coordinator officer
-	- someone who writes articles
- NIRCA Championship victory, new image -> link to article
--design page link
+- complete copy pastas of profiles
 -update footer for all the html
--fix link index.html
 -add google analytics on everypage
--image compressor, all photos, but maintain name and folder address
--latest news
+-latest announcement
 -upcoming races
 -fix search buttom, to not reveal watermark on go
 -sign-in/sign-ups
-
-
-Bugs/other:
 -responsive logo bottom
+
+Future:
+-need for website coordinator officer
+	- someone who writes articles
+-image compressor, all photos, but maintain name and folder address
+
 -"issues, nonresponsive layout" a:link layout fixes
 -make tables responsive
 remove "		<link href="../css/bootstrap-responsive.css" rel="stylesheet" type="text/css">"
