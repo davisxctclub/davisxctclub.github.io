@@ -1,22 +1,19 @@
 Future Release Updates/Fixes:
 ••••••••••••••••••••••••••••••
 
--fix searh functionality -> see personal website
-- make sure that all links are works for every page
-- update template page at the end
-	- once index.html is fully complete
-	- update meta tags on all html webpages.
-	- Careful not to overwrite other nessessary meta tags. Compare side by side with template.html
 - complete copy pastas of profiles
--update footer for all the html
--add google analytics on everypage
--latest announcement
--upcoming races
--fix search buttom, to not reveal watermark on go
 -sign-in/sign-ups
--responsive logo bottom
-
+	-html form page? Ask samir
+- make sure that all links are works for every page
+-upcoming races, upcoming events and latest news (for now)
+- scale image carasal
+-remove self roster
+-update resume
+Link Fixes:
+-photos
+	
 Future:
+-responsive logo bottom
 -need for website coordinator officer
 	- someone who writes articles
 -image compressor, all photos, but maintain name and folder address

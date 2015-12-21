@@ -453,7 +453,12 @@ input:hover,input:focus, input:active {
     border-radius: 0px 0px 20px 20px;
     border-color: #FFFFFF !important;
     background-color: #FFFFFF !important;
-    
+
+}
+
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border: none !important;
+    border-radius: 1.5px;
 }
 
 /*size control*/
@@ -462,14 +467,9 @@ input:hover,input:focus, input:active {
 	float:right;
 }
 
-/*buttom color*/
-input.gsc-search-button {
-    border-color: #FFFFFF;
-    background-color: #C7972C !important;
-}
-
 
 /*personal customsearch watermark: clicking, removes background*/
 .cse input.gsc-input:focus, input.gsc-input:focus {
 	background-image:none !important;
 }
+
