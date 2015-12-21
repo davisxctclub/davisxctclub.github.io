@@ -9,6 +9,7 @@ Future Release Updates/Fixes:
 - scale image carasal
 -remove self roster
 -update resume
+-footer index - fix "send emails to.."
 Link Fixes:
 -photos
 	
