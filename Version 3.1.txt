@@ -3,22 +3,18 @@ Future Release Updates/Fixes:
 
 - complete copy pastas of profiles
 -sign-in/sign-ups
-	-html form page? Ask samir
-- make sure that all links are works for every page
 -upcoming races, upcoming events and latest news (for now)
 - scale image carasal
 -remove self roster
 -update resume
 -footer index - fix "send emails to.."
-Link Fixes:
--photos
 	
 Future:
 -responsive logo bottom
 -need for website coordinator officer
 	- someone who writes articles
 -image compressor, all photos, but maintain name and folder address
-
+- jquery include loading (minimize code)?
 -"issues, nonresponsive layout" a:link layout fixes
 -make tables responsive
 remove "		<link href="../css/bootstrap-responsive.css" rel="stylesheet" type="text/css">"
