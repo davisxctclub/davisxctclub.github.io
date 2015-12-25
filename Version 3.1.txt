@@ -1,14 +1,13 @@
 Future Release Updates/Fixes:
 ••••••••••••••••••••••••••••••
 -upcoming races, upcoming events and latest news (for now)
--update resume
+	- add previous race descriptions, just archive them into eventual pageanation
 
 
 Future:
+-make navbar only on hover, and not active
 redo entire footer
 	-footer index - fix "send emails to.."
 	-responsive logo bottom
--need for website coordinator officer
-	- someone who writes articles
 -make tables responsive
-
+-fix vm font, amek text resize
