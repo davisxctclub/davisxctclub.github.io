@@ -2,7 +2,8 @@ Future Release Updates/Fixes:
 ••••••••••••••••••••••••••••••
 -upcoming races, upcoming events and latest news (for now)
 	- add previous race descriptions, just archive them into eventual pageanation
-
+-before release:
+	- ask community to check for correct roster
 
 Future:
 -make navbar only on hover, and not active
