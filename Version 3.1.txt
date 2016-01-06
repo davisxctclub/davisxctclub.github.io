@@ -2,11 +2,8 @@ Future Release Updates/Fixes:
 ••••••••••••••••••••••••••••••
 -upcoming races, upcoming events and latest news (for now)
 	- add previous race descriptions, just archive them into eventual pageanation
--before release:
-	- ask community to check for correct roster
--erics edits:
-	-
-- add padding text below carasoul
+	- reverse the years (2016 befroe 2015)
+- compress images again
 
 
 
