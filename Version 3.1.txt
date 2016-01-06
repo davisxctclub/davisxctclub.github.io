@@ -10,9 +10,5 @@ Future Release Updates/Fixes:
 
 
 Future:
--make navbar only on hover, and not active
 redo entire footer
 	-footer index - fix "send emails to.."
-	-responsive logo bottom
--make tables responsive
--fix vm font, amek text resize
