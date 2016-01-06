@@ -250,6 +250,19 @@
     </div>
     <!-- END # MODAL LOGIN -->
 
+<!--
+<form id="contactform" method="POST">
+    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="_replyto" placeholder="Your email">
+    <input type="hidden" name="_subject" value="Website contact" />
+    <textarea name="message" placeholder="Your message"></textarea>
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="submit" value="Send">
+</form>
+<script>
+    var contactform =  document.getElementById('contactform');
+    contactform.setAttribute('action', '//formspree.io/' + 'your' + '@' + 'email' + '.' + 'com');
+</script> -->
 
 	<div class="row">
         <div class="col-lg-12">
@@ -260,43 +273,43 @@
     </div>
 	<div class="panel panel-default">
 		<div class="panel-body">
-			<form action="http://formspree.io/davisxctclub@gmail.com" class="form-horizontal" method="POST" name="contactform" role="form">
+			<form action="//formspree.io/davisxctclub@gmail.com" class="form-horizontal" method="POST" id="contactform" role="form">
 
 				<div class="form-group">
-					<label class="col-lg-2 control-label" for="inputName">Name</label>
+					<label class="col-lg-2 control-label" for="name">Name</label>
 				        <br>
 					<div class="col-lg-10">
-						<input class="form-control" id="inputName" name="inputName" placeholder="Your Name" type="text">
+						<input class="form-control" id="name" name="name"  type="text" placeholder="Your name">
 					</div>
 				</div>
 
 				<div class="form-group">
-					<label class="col-lg-2 control-label" for="inputEmail1">Email</label>
+					<label class="col-lg-2 control-label" for="email">Email</label>
 					        <br>
 					<div class="col-lg-10">
-						<input class="form-control" id="inputEmail" name="inputEmail" placeholder="Your Email" type="text">
+						<input class="form-control" id="email" name="_replyto" type="email" placeholder="Your email">
 					</div>
 				</div>
 
 				<div class="form-group">
-					<label class="col-lg-2 control-label" for="inputSubject">Subject</label>
+					<label class="col-lg-2 control-label" for="_subject">Subject</label>
 					        <br>
 					<div class="col-lg-10">
-						<input class="form-control" id="inputSubject" name="inputSubject" placeholder="Subject Message" type="text">
+						<input class="form-control" id="_subject" name="_subject" placeholder="Subject Message">
 					</div>
 				</div>
 
 				<div class="form-group">
-					<label class="col-lg-2 control-label" for="inputPassword1">Message</label>
+					<label class="col-lg-2 control-label" for="message">Message</label>
 				        <br>
 					<div class="col-lg-10">
-						<textarea class="form-control" id="inputMessage" name="inputMessage" placeholder="Your message..." rows="4"></textarea>
+						<textarea class="form-control" id="message" name="message" placeholder="Your message..." rows="4"></textarea>
 					</div>
 				</div>
 
 				<div class="form-group">
 					<div class="col-lg-offset-2 col-lg-10">
-					<button class="btn btn-default" type="submit">
+					<button class="btn btn-default" type="submit" value="Send">
 					          Send Message
 					         </button>
 					</div>
