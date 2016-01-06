@@ -5,6 +5,10 @@ Future Release Updates/Fixes:
 -before release:
 	- ask community to check for correct roster
 
+
+
+
+
 Future:
 -make navbar only on hover, and not active
 redo entire footer
