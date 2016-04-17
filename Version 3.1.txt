@@ -7,7 +7,7 @@ Future Release Updates/Fixes:
 <input type="hidden" name="_next" value="//site.io/thanks.html" />
 - fix contact form
 - fix paypal donater all buttons seem to not work, reference personal website
-
+- add new banner
 
 Future:
 redo entire footer
