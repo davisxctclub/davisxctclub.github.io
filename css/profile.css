@@ -50,7 +50,6 @@ ul#n li.sel a { color: #fff; text-shadow: 0px 1px 2px #88b618; }
 #userStats { display: block; width: auto; background-color: #f9f9f9; border: 1px solid #ccc; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; padding: 12px; }
 
 #userStats .pic { float: left; display: block; margin-right: 10px; }
-#userStats .pic a img { padding: 7px; background: #fff; border: 1px solid #ccc; }
 
 #userStats .data { float: left; display: block; position:  relative; width: 350px; height: 166px; padding: 4px; padding-left: 15px; background: #e6e6e6; overflow:  hidden; box-sizing: border-box; -moz-box-sizing: border-box; }
 #userStats .data h1 { color: #474747; line-height: 1.6em; text-shadow: 0px 1px 1px #fff; }
@@ -90,8 +89,11 @@ html[xmlns] .clearfix { display: block; }
 
 .nobrdr { border: 0px !important; }
 
-
 /* new */
+#profile {
+	width: 152px;
+	height: auto;
+}
 
 /* white interior */
 #left {
