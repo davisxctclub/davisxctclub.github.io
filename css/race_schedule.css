@@ -30,3 +30,7 @@
 	}
 
 }
+
+.table-responsive ul {
+	list-style-type: none;
+}
