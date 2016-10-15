@@ -494,7 +494,7 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 /*footer background*/
 #footer_template {
     width: 100%;
-    background-image: url(../images/background/xcbanner.PNG);
+    background-image: url(../images/background/xcbanner.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
