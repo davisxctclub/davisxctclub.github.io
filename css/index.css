@@ -11,10 +11,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     font-size: 100%;
 }
 
-body {
-	background-image: url("../images/background/white_bed_sheet.png");
-	background-repeat: repeat;
-}
+
 
 /*NAV BAR COLOR*/
 
@@ -341,7 +338,7 @@ p {
 }
 
 #custom_button input{
-	max-width: 33%;
+	width: 123px;
 	margin-right: auto;
     margin-left: auto;
     display: block;
@@ -367,7 +364,7 @@ input:hover,input:focus, input:active {
 	color: #c7972c;
 	font-size: 20px;
 	font-weight: 700;
-	padding-top:20%;
+	padding-top:91%;
 }
 
 
@@ -378,7 +375,7 @@ input:hover,input:focus, input:active {
 	font-size: 20px;
 	font-weight: 700;
 	text-align: right;
-	padding-top:8%;
+	padding-top:11%;
 }
 
 .footer_icons {
@@ -492,4 +489,17 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 	div#col-1 p {
 		display: none !important;
 	}
+}
+
+/*footer background*/
+#footer_template {
+    width: 100%;
+    background-image: url(../images/background/xcbanner.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}​
+
+.panel-default {
+	padding-bottom: 6% !important;
 }
