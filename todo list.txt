@@ -1,0 +1,48 @@
+TODO - LIST:
+
+- add previous race descriptions
+	- archive them into eventual pageanation
+	- script: identify when capacity is reached (3 years / page ?)
+- faq page
+	- scipt: add question, remove question, edit question
+- current events
+	- script to add new event, update event, delete event
+- workout schedule
+	- make an editable template in note page, that you then convert to html, rather than using google docs
+- photos
+	- a bit undeveloped right now.
+	- can optionally use google photos, and directly embed to the website
+	- otherwise need to write a script to add scan those photos, rename compress, and write an html page generalizer.
+- include a 'master calender' embedded on the front page of the website.
+	- use google calender, and embedded a simplified on the website (summary of what will happen)
+- video tutorial
+	- should go through all the features on how to use the script
+- script for race schedule descriptions
+	- update, delete, add
+	- maybe to simplify things, use notepad where the content is added, and is used to accurately represent what is already current on the html page. It would also simplify the script.
+- travel and sign ups
+	- script to directly edit these changes for the officers
+	- but individually, this should be a link to google forms for others to sign up.
+- race results
+	- script updater, and need the content from previous year.
+- special tab for current special races
+	- still in discussion, but they want a new tab that would provide information for races organized by our club.
+	- idea is to have the information better advertised. (e.g. a 5k)
+- front page carasol:
+	- script to replace an entire slide (3 is enough)
+	- script to place a new slide
+	- delete a slide.
+	- or just notepad document that represents the current live representation of the carasol.
+	- and just represent the minimum amount of information needed to represent the content on carasols.
+	- e.g. image, link, text
+- provide a way that a user can subscribe to our email list. And provide this information on the front page of website.
+	- use google groups
+- other
+	- for script provide an interface that allows <b> <i> <links> <h>.
+	
+
+- pageanation for photos, and race results.
+- compress images again
+
+
+

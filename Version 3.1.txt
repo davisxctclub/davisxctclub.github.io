@@ -1,7 +1,0 @@
-Future Release Updates/Fixes:
-••••••••••••••••••••••••••••••
--upcoming races, upcoming events and latest news (for now)
-	- add previous race descriptions, just archive them into eventual pageanation
-
-- pageanation for photos, and race results.
-- compress images again
