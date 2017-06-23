@@ -13,9 +13,16 @@ Waiting
 	- but individually, this should be a link to google forms for others to sign up.
 - race results
 
+Introduction:
 
-	
-
-
-
+Demonstrations:
+- about us
+- google calendar
+- current events
+- faq
+- meet the officers
+- race results
+- race schedule
+- resources
+- carousel
 
