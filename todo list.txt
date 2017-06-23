@@ -13,16 +13,6 @@ Waiting
 	- but individually, this should be a link to google forms for others to sign up.
 - race results
 
-- include a 'master calender' embedded on the front page of the website.
-	- use google calender, and embedded a simplified on the website (summary of what will happen)
-
-
-- front page carasol:
-	- image, link, text
-	
-
-- provide a way that a user can subscribe to our email list. And provide this information on the front page of website.
-	- use google groups
 
 	
 
