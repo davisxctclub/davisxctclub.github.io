@@ -17,12 +17,25 @@
 }
 
 
-.welcome_message p {
+
+.welcome_message p, .welcome_message ul {
     font-weight: 300;
     color: #5a5a5a;
     font-size: 26px;
     text-align: left;
     padding-top:2%;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.welcome_message li {
+    font-weight: 300;
+    color: #5a5a5a;
+    font-size: 26px;
+    text-align: left;
+    padding-bottom:2%;
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     margin-left: 15%;
@@ -58,4 +71,31 @@ hr.thin {
     
     margin-bottom: 4%;
 
+}
+
+
+body > div.welcome_message > a > img {
+    display: block;
+    margin: 0 auto;
+    height: 12em;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#race_map > img {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    height: auto;
+    
+    -moz-box-shadow: 0 0 7px #888;
+    -webkit-box-shadow: 0 0 7px#888;
+    box-shadow: 0 0 7px #888;
+    
+    /* border-radius */
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    
+    margin-bottom: 4%;
 }
