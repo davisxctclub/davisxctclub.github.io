@@ -16,8 +16,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 /*NAV BAR COLOR*/
 
 .navbar-default{
-	background-color: #162a53;
-	padding-left: 25%;
+	padding-left: 13%;
+    background-color: #162a53;
 	border: none;
 }
 
