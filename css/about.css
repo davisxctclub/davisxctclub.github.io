@@ -85,7 +85,7 @@ body > div.welcome_message > a > img {
 #race_map > img {
     display: block;
     margin: 0 auto;
-    width: 800px;
+    width: 1000px;
     height: auto;
     
     -moz-box-shadow: 0 0 7px #888;
